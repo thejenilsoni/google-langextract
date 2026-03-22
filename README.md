@@ -29,7 +29,7 @@ The repository is organized to make it easy to find and run projects. Each sub-d
 1.  **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/jenilsoni-ai/google-langextract.git
+    git clone https://github.com/thejenilsoni/google-langextract.git
     cd google-langextract/
     ```
 

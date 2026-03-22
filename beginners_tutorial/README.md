@@ -45,7 +45,7 @@ A simple project using the **Google LangExtract** library to demonstrate extract
 
 1.  Clone the repository and navigate to the project directory:
     ```bash
-    git clone https://github.com/jenilsoni-ai/google-langextract.git
+    git clone https://github.com/thejenilsoni/google-langextract.git
     cd beginners_tutorial/
     ```
 2.  Install dependencies from the `requirements.txt` file:
